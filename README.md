@@ -82,3 +82,21 @@ This project demonstrates:
 - UX/UI design principles
 - Website accessibility and usability analysis
 
+## Repository Structure
+
+presentation/
+├── The_Loop_Website_Analysis.pdf
+└── The_Loop_Website_Analysis.pptx
+
+screenshots/
+├── the_loop_about.pdf
+├── the_loop_business.pdf
+├── the_loop_main.pdf
+├── the_loop_navigation.pdf
+├── the_loop_rent.pdf
+├── the_loop_training.pdf
+└── the_loop_yoga.pdf
+
+## Screenshots Folder
+
+The `screenshots` folder contains PDF captures of key pages from The Escalante Loop website at the time of analysis. These files serve as reference materials used during the website review process and document the site's original structure, navigation, content organization, and user experience before any redesign recommendations were made.
